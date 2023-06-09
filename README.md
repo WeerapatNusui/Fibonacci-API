@@ -4,11 +4,11 @@ Fibonacci-API เป็น api สำหรับคำนวนลำดับ�
 
 ## ตัวอย่างทดสอบ PHP
 
-![enter image description here](https://www.img.in.th/image/abMkA5)
+[ดูรูปผลทดสอบ PHP](https://drive.google.com/file/d/1naiZOETZ1NU1CiGMStGTLcpJsSgzggsB/view?usp=sharing)
 
 ## ตัวอย่างทดสอบ Postman
 
-![enter image description here](https://www.img.in.th/image/abM0ZJ)
+[ดูรูปผลทดสอบ Postman](https://drive.google.com/file/d/1qTjVWG4cBRK6L49VS4JQ-cU7-r7OP7Yl/view?usp=sharing)
 
 ## องค์ประกอบที่จำเป็น
 โปรแกรม Web Server
